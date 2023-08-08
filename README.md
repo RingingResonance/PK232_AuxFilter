@@ -5,3 +5,7 @@ I don't have the best understanding of how this type of filter works so I copied
 with the goal of helping the PK232 perform a little better when the incoming signal isn't full-quieting. Obviously this is for
 models that don't have the DSP filter. This filter should be able to be used for other things by changing the resistor and capacitor
 values to fit your needs. It would probably work on other TNC's.
+
+Current resistor and capacitor values for Mark/Space:
+VHF mode: 1200/2400 hz
+HF mode: 2110/2310 hz
