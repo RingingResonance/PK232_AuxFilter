@@ -1,0 +1,7 @@
+Qty,partname,description,lib
+0,"4016","Quad Analog Switches","4xxx"
+0,"LM2902","Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14","Amplifier_Operational"
+0,"Conn_01x08_Male","Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)","Connector"
+0,"C","Unpolarized capacitor","Device"
+0,"R","Resistor","Device"
+0,"R_POT","Potentiometer","Device"

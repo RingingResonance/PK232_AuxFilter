@@ -1,0 +1,27 @@
+7: 0.01uF 0603 capacitor :: 399-17568-1-ND
+
+2: 19.6K 0603 resistor :: 311-19.6KHRCT-ND
+
+1: 8.2K 0603 resistor :: 311-8.2KGRCT-ND
+
+2: 80.6K 0603 resistor :: 311-80.6KHRCT-ND
+
+1: 20K 0603 resistor :: 13-RC0603FR-1320KLCT-ND
+
+1: 22.1K 0603 resistor :: 311-22.1KHRCT-ND
+
+1: 6.49K 0603 resistor :: 311-6.49KHRCT-ND
+
+2: 10K 0603 resistor :: RNCP0603FTD10K0CT-ND
+
+2: 23.2K 0603 resistor :: 311-23.2KHRCT-ND
+
+2: 18.7K 0603 resistor :: 311-18.7KHRCT-ND
+
+1: 5K 0603 resistor :: 3314J-502ECT-ND
+
+1: 100K 0603 resistor :: 563-ST4ETA104CT-ND
+
+1: Analog Switch SOIC 74HC4066D :: 1727-2811-1-ND
+
+1: Quad Op-Amp SOIC AD8668ARZ :: 505-AD8668ARZ-ND
