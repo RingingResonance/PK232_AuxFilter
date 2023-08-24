@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\User\Desktop\Radio\pk232\PK232_HF_auxFilter\auxFilter\auxFilter.sch)
-    (date "8/7/2023 7:10:31 PM")
+    (date "8/21/2023 9:31:42 PM")
     (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -80,9 +80,8 @@
     (comp (ref U1)
       (value 4066)
       (footprint Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm)
-      (datasheet http://www.ti.com/lit/ds/symlink/cd4066b.pdf)
       (fields
-        (field (name digikey) 1727-2811-1-ND))
+        (field (name digikey) MC14066BDR2GOSCT-ND))
       (libsource (lib 4xxx) (part 4066) (description "Quad Analog Switches"))
       (sheetpath (names /) (tstamps /))
       (tstamp 64D29268))
